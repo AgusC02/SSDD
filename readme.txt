@@ -1,1 +1,0 @@
-En este repositorio se encuentran todas las actividades a entregar de Sistemas Distribuidos, separados en cada branch.
