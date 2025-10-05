@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/9dfe5_next_dist_c964c9f4._.js",
+      "static/chunks/Actividad 3_src_app_favicon_ico_mjs_bde8b596._.js",
+      "static/chunks/[root-of-the-server]__8fbacfd1._.css",
+      "static/chunks/Actividad 3_src_app_layout_tsx_3c94adac._.js",
+      "static/chunks/9dfe5_next_dist_client_components_builtin_global-error_50426a0d.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_935a0ab0._.js",
+      "static/chunks/9dfe5_next_dist_compiled_react-dom_e06abc20._.js",
+      "static/chunks/9dfe5_next_dist_compiled_next-devtools_index_e75830d9.js",
+      "static/chunks/9dfe5_next_dist_compiled_405b49de._.js",
+      "static/chunks/9dfe5_next_dist_client_7091b8a2._.js",
+      "static/chunks/9dfe5_next_dist_d1fb711f._.js",
+      "static/chunks/9dfe5_@swc_helpers_cjs_a0983730._.js",
+      "static/chunks/Actividad 3_a0ff3932._.js",
+      "static/chunks/turbopack-Actividad 3_3a03f988._.js"
+    ]
+  }
+}
